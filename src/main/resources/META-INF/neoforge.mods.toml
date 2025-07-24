@@ -4,11 +4,11 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="cursed_forge"
-version="1.1"
+version="1.2"
 displayName="Cursed Forge"
 displayURL="https://modrinth.com/mod/cursed-forge"
 logoFile="logo.png"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="rovio, nintendo, and created by Titanskywars"
 authors="Titanskywars"
 description="normal mod lol"
 
