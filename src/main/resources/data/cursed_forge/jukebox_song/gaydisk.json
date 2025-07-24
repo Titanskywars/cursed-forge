@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.cursed_forge.gaydisk.desc"
+  },
+  "length_in_seconds": 70,
+  "sound_event": "cursed_forge:howcanibehomophobic"
+}

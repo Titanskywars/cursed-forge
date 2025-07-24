@@ -1,0 +1,11 @@
+{
+  "asset_id": "cursed_forge:curse",
+  "height": 1,
+  "width": 1,
+  "title": {
+    "translate": "painting.cursed_forge.curse.title"
+  },
+  "author": {
+    "translate": "painting.cursed_forge.curse.author"
+  }
+}

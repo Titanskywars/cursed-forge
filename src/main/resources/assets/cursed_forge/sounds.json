@@ -1,0 +1,38 @@
+{
+  "mario": {
+    "subtitle": "subtitles.mario",
+    "sounds": [
+      {
+        "name": "cursed_forge:13._athletic",
+        "stream": true
+      }
+    ]
+  },
+  "howcanibehomophobic": {
+    "subtitle": "subtitles.howcanibehomophobic",
+    "sounds": [
+      {
+        "name": "cursed_forge:youtubegetpot_video_aydozsvjvgk_tuberipper.cc",
+        "stream": true
+      }
+    ]
+  },
+  "my_boyfriend": {
+    "subtitle": "subtitles.my_boyfriend",
+    "sounds": [
+      {
+        "name": "cursed_forge:youtubegetpot_video_4msllnum7nm_tuberipper.cc",
+        "stream": false
+      }
+    ]
+  },
+  "badpiffiws": {
+    "subtitle": "subtitles.badpiffiws",
+    "sounds": [
+      {
+        "name": "cursed_forge:40._main_theme",
+        "stream": true
+      }
+    ]
+  }
+}

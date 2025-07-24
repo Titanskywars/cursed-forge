@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "junk",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:bread",
+    "b": "cursed_forge:mints"
+  },
+  "result": {
+    "id": "cursed_forge:burger",
+    "count": 1
+  }
+}

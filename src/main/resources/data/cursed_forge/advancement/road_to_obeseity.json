@@ -1,0 +1,43 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "id": "cursed_forge:burger"
+    },
+    "title": {
+      "translate": "advancements.road_to_obeseity.title"
+    },
+    "description": {
+      "translate": "advancements.road_to_obeseity.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "road_to_obeseity_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "cursed_forge:burger"
+          ]
+        }
+      }
+    },
+    "road_to_obeseity_1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:honey_bottle"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

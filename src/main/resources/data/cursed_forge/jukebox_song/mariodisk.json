@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.cursed_forge.mariodisk.desc"
+  },
+  "length_in_seconds": 164,
+  "sound_event": "cursed_forge:mario"
+}
