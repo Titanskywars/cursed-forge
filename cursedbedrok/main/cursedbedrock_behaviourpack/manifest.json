@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "cursedbedrock",
+    "uuid": "2a521a69-100f-3179-b056-591a124c2e89",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "202cf607-0ab8-3c7e-9687-a863a1f760b8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "292268b6-77f3-39d9-8559-09da6fab8a02",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

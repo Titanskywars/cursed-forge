@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "cursedbedrock",
+    "uuid": "292268b6-77f3-39d9-8559-09da6fab8a02",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "cb3a8bb2-2de0-3b72-b2d1-52726d350cd4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
