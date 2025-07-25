@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "cursed_forge:block/snowland_portal_ew"
+    },
+    "axis=x": {
+      "model": "cursed_forge:block/snowland_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "cursed_forge:meatarmor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "cursed_forge:meatarmor"
+      }
+    ]
+  }
+}

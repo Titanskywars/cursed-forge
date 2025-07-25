@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cursed_forge:block/mario",
+    "particle": "cursed_forge:block/mario"
+  },
+  "render_type": "solid"
+}
